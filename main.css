@@ -1,0 +1,14 @@
+body {
+    background-image: background: #505D6E url("http://www.smh.com.au/content/dam/images/2/t/d/m/f/image.related.articleLeadNarrow.300x0.2usvs.png/1380733200000.jpg") no-repeat center center fixed;
+min-height: 100%;
+h1 {
+    color: red;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+{
+    background-color: #cccccc;
+}
